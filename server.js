@@ -38,34 +38,34 @@ app.use(bodyParser.json())
 let students = [ 
     {
      _id: 1,
-     firstName: 'Asab',
-     lastName: 'Yeta',
-     age: 250,
+     firstName: 'Asabeneh',
+     lastName: 'Yetayeh',
+     age: 38,
      country: 'Etiophia',
      skills: ['HTML','CSS','JS', 'Node']
     },
     {
      _id: 2,
-     firstName: 'Atik',
-     lastName: 'Rahma',
+     firstName: 'Heidi',
+     lastName: 'Salamanca',
      age: 30,
-     country: 'India',
+     country: 'Peru',
      skills: ['HTML','CSS','React','Redux']
     },
     {
      _id: 3,
-     firstName: 'Arthur',
-     lastName: 'Pastochenko',
+     firstName: 'Elizabeth',
+     lastName: 'Salamanca',
      age: 32,
-     country: 'Croatia',
+     country: 'Peru',
      skills: ['HTML','CSS','React','Python']
     },
     {
      _id: 4,
-     firstName: 'Bibek',
-     lastName: 'Bibeko',
-     age: 30,
-     country: 'Nepal',
+     firstName: 'Maricarmen',
+     lastName: 'Marin',
+     age: 42,
+     country: 'Spain',
      skills: ['HTML','CSS','React','Python']
     }
 ]
